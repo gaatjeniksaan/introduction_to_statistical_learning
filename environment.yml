@@ -1,0 +1,8 @@
+name: intro_to_stats
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - jupyter
